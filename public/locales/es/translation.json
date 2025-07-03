@@ -1,0 +1,102 @@
+{
+  "feedback": {
+    "veryUnsatisfied": "Muy Insatisfecho",
+    "unsatisfied": "Insatisfecho",
+    "neutral": "Neutral",
+    "satisfied": "Satisfecho",
+    "verySatisfied": "Muy Satisfecho",
+    "giveFeedback": "Comentarios",
+    "thankYou": "¡Gracias por tus comentarios!",
+    "feedbackReceived": "Tus comentarios han sido recibidos.",
+    "error": "Error",
+    "errorSubmitting": "Hubo un problema al enviar tus comentarios.",
+    "shareExperience": "Comparte tu experiencia",
+    "howWasBrowsing": "¿Cómo fue tu experiencia con este portafolio?",
+    "additionalComments": "Comentarios adicionales (opcional)",
+    "tellUsMore": "Cuéntanos más sobre tu experiencia...",
+    "submitting": "Enviando...",
+    "submit": "Enviar Comentarios"
+  },
+  "hero": {
+    "greeting": "Hola, soy",
+    "intro": "Soy un",
+    "contactButton": "Contáctame",
+    "downloadResume": "Descargar CV",
+    "scrollDown": "Desplázate para explorar"
+  },
+  "about": {
+    "title": "Sobre Mí",
+    "experience": "Años de Experiencia",
+    "projects": "Proyectos Completados",
+    "clients": "Clientes Satisfechos"
+  },
+  "skills": {
+    "title": "Mis Habilidades",
+    "subtitle": "Experiencia y Tecnologías"
+  },
+  "projects": {
+    "title": "Proyectos",
+    "subtitle": "Mi Trabajo Reciente",
+    "viewProject": "Ver Proyecto",
+    "viewCode": "Ver Código"
+  },
+  "experience": {
+    "title": "Experiencia",
+    "subtitle": "Mi Trayectoria Profesional",
+    "present": "Presente",
+    "responsibilities": "Responsabilidades"
+  },
+  "contact": {
+    "title": "Contáctame",
+    "subtitle": "Ponte en Contacto",
+    "nameLabel": "Tu Nombre",
+    "emailLabel": "Tu Email",
+    "messageLabel": "Tu Mensaje",
+    "submitButton": "Enviar Mensaje",
+    "successMessage": "¡Mensaje enviado con éxito!",
+    "errorMessage": "Algo salió mal. Por favor, inténtalo de nuevo."
+  },
+  "footer": {
+    "copyright": "Todos los derechos reservados",
+    "madeWith": "Hecho con"
+  },
+  "auth": {
+    "login": "Iniciar Sesión",
+    "username": "Usuario",
+    "password": "Contraseña",
+    "submit": "Enviar",
+    "loginError": "Usuario o contraseña inválidos",
+    "adminPanel": "Panel de Administrador",
+    "securePortal": "Portal de Administrador Seguro",
+    "managePortfolio": "Administra el contenido de tu portafolio y muestra tu trabajo al mundo.",
+    "dynamicContent": "Contenido Dinámico",
+    "dynamicContentDesc": "Actualiza el contenido de tu portafolio fácilmente a través del panel de administración",
+    "imageUpload": "Carga de Imágenes",
+    "imageUploadDesc": "Sube y administra imágenes para tus proyectos y perfil",
+    "resumeManagement": "Gestión de Currículum",
+    "resumeManagementDesc": "Sube y actualiza tu currículum para que los visitantes puedan descargarlo",
+    "enhancedSecurity": "Seguridad Mejorada",
+    "enhancedSecurityDesc": "Protección avanzada con prevención de bloqueo de cuenta",
+    "administratorAccess": "Acceso de Administrador",
+    "accessCredentials": "Ingresa tus credenciales para administrar tu portafolio",
+    "adminUsername": "Nombre de Usuario de Administrador",
+    "enterUsername": "Ingresa tu nombre de usuario",
+    "adminPassword": "Contraseña de Administrador",
+    "enterPassword": "Ingresa tu contraseña",
+    "accountLocked": "Cuenta Temporalmente Bloqueada",
+    "tooManyAttempts": "Demasiados intentos fallidos",
+    "tryAgainIn": "Inténtalo de nuevo en",
+    "seconds": "segundos",
+    "warningAttempts": "Advertencia:",
+    "loginAttemptsRemaining": "intento de inicio de sesión restante",
+    "loginAttemptsRemaining_plural": "intentos de inicio de sesión restantes",
+    "authenticating": "Autenticando...",
+    "secureLogin": "Inicio de Sesión Seguro",
+    "authorizedOnly": "Solo para personal autorizado",
+    "returnToPortfolio": "Volver al Portafolio",
+    "loginSuccess": "Inicio de Sesión Exitoso",
+    "welcomeAdmin": "Bienvenido al panel de administrador del portafolio",
+    "loginFailed": "Error de Inicio de Sesión",
+    "invalidCredentials": "Credenciales inválidas."
+  }
+}
